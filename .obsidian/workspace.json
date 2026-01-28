@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "072b0279da1dfc16",
+        "id": "ab632539c9fac0ab",
         "type": "tabs",
         "children": [
           {
-            "id": "dba253569fcffc7d",
+            "id": "ab5008c1db4da383",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b29a24bb7b7da109",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8edfb19fa37e534e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -190,11 +174,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50eee20702e387cf",
+  "active": "ab5008c1db4da383",
   "lastOpenFiles": [
+    "Genes and Others/SOX1.md",
+    "Genes and Others/MIXL1.md",
+    "Genes and Others",
     "Welcome.md"
   ]
 }
